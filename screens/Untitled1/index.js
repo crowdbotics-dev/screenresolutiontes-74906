@@ -19,7 +19,7 @@ const styles = StyleSheet.create({
   dbELIdmM: {
     height: 63,
     width: 140,
-    backgroundColor: "#4189d3",
+    backgroundColor: "#7da7d1",
     borderRadius: 0,
     color: "#777777"
   }
